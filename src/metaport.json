@@ -1,0 +1,24 @@
+{
+  "metaport": [
+    {
+      "version": "0.0.1",
+      "origin": [
+        "com.mymetaverse": [
+          {
+            "location_x": 294.02,
+            "location_y": 49.29,
+            "location_z": 518.2
+          }
+        ]
+      ],
+      "destination": [
+        "com.polarmetaverse": [
+          {
+            "theta": 124.325,
+            "radius": 592.32
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metapack": [
+    {
+      "version": "0.0.1",
+      "items": [
+        "com.mymetaverse": [
+          {
+            "id": "asd89sa2h13200a",
+            "name": "BFG",
+            "traits": {
+              "type": "weapon",
+              "color": "dark-mauve"
+            }
+          }
+        ]
+      ],
+      "wallets": {
+        "eth": "jeffreality.eth"
+      }
+    }
+  ]
+}

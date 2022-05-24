@@ -1,0 +1,24 @@
+{
+  "metapass": [
+    {
+      "version": "0.0.1",
+      "identity": {
+        "username": "my_user_123",
+        "name": {
+          "full": "Firstname Lastname",
+          "given": "Firstname",
+          "surname": "Lastname"
+        },
+        "gender": "other",
+        "email": "test@test.com",
+        "phone": "1-213-555-1212",
+      },
+      "avatar": {
+        "gravatar": "b021a8beb0107b0834e280fe52567199"
+      },
+      "wallets": {
+        "eth": "jeffreality.eth"
+      }
+    }
+  ]
+}
