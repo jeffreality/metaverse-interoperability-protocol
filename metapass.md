@@ -1,5 +1,5 @@
-#The First Pass at a Metapass
-##Passport to the Metaverse!
+# The First Pass at a Metapass
+## Passport to the Metaverse!
 
 This is the first draft of a metapass data bundle that will be passed back and forth as people travel between metaverses. I am publishing it here for comments and feedback, prior to uploading it to github:
 
